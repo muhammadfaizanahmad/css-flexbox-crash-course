@@ -41,6 +41,14 @@ body {
   font-size: 1.5rem;
   padding: 1rem;
   text-align: center;
+  /* flex-grow: 1; */
+  /* flex-shrink: 0; */
+  
+  /* flex: flex-grow flex-shrink flex-basis; */
+
+  /* DEFAULT VALUES */
+
+  /* flex: 0 1 auto; */
 }
 
 .item-1 {
@@ -49,10 +57,14 @@ body {
 
 .item-2 {
   background-color: greenyellow;
+  /* flex-basis: 200px; */
+  /* flex-grow: 2; */
+  /* flex-shrink: 2; */
 }
 
 .item-3 {
   background-color: bisque;
+  /* order: 1; */
 }
 
 .item-4 {
