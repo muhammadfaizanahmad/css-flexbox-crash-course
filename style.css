@@ -14,15 +14,26 @@ body {
   /* flex-wrap: wrap; */
   /* flex-wrap: wrap-reverse; */
   /* flex-flow: row wrap; */
-  /* column-gap: 5px;
-  row-gap: 10px; */
+  /* column-gap: 5px; */
+  /* row-gap: 10px; */
   /* gap: 10px 5px; */
+  /* justify-content: flex-start; */
+  /* justify-content: flex-end; */
+  /* justify-content: center; */
   /* justify-content: space-evenly; */
   /* justify-content: space-between; */
   /* justify-content: space-around; */
+  /* align-items: stretch; */
   /* align-items: start; */
   /* align-items: center; */
   /* align-items: end; */
+  /* align-content: stretch; */
+  /* align-content: flex-start; */
+  /* align-content: flex-end; */
+  /* align-content: center; */
+  /* align-content: space-evenly; */
+  /* align-content: space-between; */
+  /* align-content: space-around; */
 }
 
 .flex-item {
